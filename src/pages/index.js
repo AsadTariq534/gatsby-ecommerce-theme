@@ -28,7 +28,7 @@ const IndexPage = () => {
     <Layout disablePaddingBottom>
       {/* Hero Container */}
       <Hero
-        maxWidth={'500px'}
+        maxWidth={'300px'}
         image={'/Suleman Sweets-03.jpg'}
         title={'Essentials for a cold winter'}
         subtitle={'Discover Autumn Winter 2021'}
