@@ -59,12 +59,12 @@ const IndexPage = () => {
       <div className={styles.highlightContainer}>
         <Container size={'large'} fullMobile>
           <Highlight
-            image={'/highlight.png'}
+            image={'/Lambi.jpg'}
             altImage={'highlight image'}
-            miniImage={'/highlightmin.png'}
+            miniImage={'/patisa.jpg'}
             miniImageAlt={'mini highlight image'}
-            title={'Luxury Knitwear'}
-            description={`This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife`}
+            title={'Sweets & Bakery'}
+            description={`Made with Pure Desi Ghee and Fine Quality Ingredients`}
             textLink={'shop now'}
             link={'/shop'}
           />
