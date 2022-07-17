@@ -48,7 +48,7 @@ const IndexPage = () => {
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'New Collection'} />
+          <Title name={'Our Items'} />
           <ProductCollectionGrid />
         </Container>
       </div>
