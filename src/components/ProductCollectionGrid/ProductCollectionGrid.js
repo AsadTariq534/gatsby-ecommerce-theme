@@ -25,7 +25,7 @@ const ProductCollectionGrid = (props) => {
         link={'/shop'}
       />
       <ProductCollection
-        image={'/collections/Fast food.jpg'}
+        image={'/collections/Fastfood.jpg'}
         title={'Fast Food'}
         text={'SHOP NOW'}
         link={'/shop'}
