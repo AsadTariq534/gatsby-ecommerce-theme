@@ -29,7 +29,7 @@ const IndexPage = () => {
       {/* Hero Container */}
       <Hero
         maxWidth={'500px'}
-        image={'static/Website-banner_651e574e-dadc-46a8-98db-4fc13bfb8f70.webp'}
+        image={'https://github.com/AsadTariq534/gatsby-ecommerce-theme/blob/890f427517544fd6cffa7f62134553689379d2cb/static/Website-banner_651e574e-dadc-46a8-98db-4fc13bfb8f70.webp'}
         title={'Essentials for a cold winter'}
         subtitle={'Discover Autumn Winter 2021'}
         ctaText={'shop now'}
