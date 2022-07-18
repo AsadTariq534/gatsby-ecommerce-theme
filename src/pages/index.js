@@ -80,7 +80,7 @@ const IndexPage = () => {
         <div className={styles.socialContentGrid}>
           <img src={`/social/one.jpg`} alt={'social media 1'} />
           <img src={`/social/two.jpg`} alt={'social media 2'} />
-          <img src={`/social/Mithai.jpg`} alt={'social media 3'} />
+          <img src={`/social/2g2.png`} alt={'social media 3'} />
           <img src={`/social/four.jpg`} alt={'social media 4'} />
         </div>
       </div>
