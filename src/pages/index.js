@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'300px'}
         image={'/SulemanSweetslogo.jpg'}
-        title={'Essentials for a cold winter'}
-        subtitle={'Discover Autumn Winter 2021'}
+        title={'Sweets & Bakery'}
+        subtitle={'Meethi Baat'}
         ctaText={'shop now'}
         ctaAction={goToShop}
       />
