@@ -33,7 +33,7 @@ const IndexPage = () => {
         title={'Sweets & Bakery'}
         subtitle={'Meethi Baat'}
         ctaText={'shop now'}
-        ctaAction={goToShop}
+        
       />
 
       {/* Message Container */}
