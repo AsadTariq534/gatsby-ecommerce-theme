@@ -30,9 +30,7 @@ const IndexPage = () => {
       <Hero
         maxWidth={'300px'}
         image={'/1g1.png'}
-        title={'Sweets & Bakery'}
-        subtitle={'Meethi Baat'}
-        ctaText={'shop now'}
+      
         
       />
 
