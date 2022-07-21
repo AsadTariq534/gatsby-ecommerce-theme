@@ -57,7 +57,7 @@ const AboutPage = (props) => {
         </Container>
 
         
-    </Layout>
+   
   );
 };
 
