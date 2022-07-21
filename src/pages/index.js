@@ -73,7 +73,7 @@ const IndexPage = () => {
       <div className={styles.socialContainer}>
         <Title
           name={'Contact Us For Custom Orders'}
-          subtitle={'Suleman Sweets And Bakers.Com is an upcoming brand that will be launched soon, You can contact our agent for details and queries at whatsapp +923034010008'}
+          subtitle={'Suleman Sweets And Bakers.Com is an upcoming brand that will be launched soon, You can contact our agent for details and queries at whatsapp: +923034010008'}
         />
         <div className={styles.socialContentGrid}>
           <img src={`/social/one.jpg`} alt={'social media 1'} />
