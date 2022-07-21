@@ -27,7 +27,7 @@ const Header = (prop) => {
   const [search, setSearch] = useState('');
 
   const searchRef = createRef();
-  const bannerMessage = 'Free shipping';
+  const bannerMessage = 'Website Under Development';
   const searchSuggestions = [
     
   ];
